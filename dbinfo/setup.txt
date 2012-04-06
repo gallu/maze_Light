@@ -1,0 +1,4 @@
+create database データベース名;
+grant ALTER, CREATE, DELETE, DROP, INDEX, INSERT, LOCK TABLES, SELECT, UPDATE on データベース名.* to 'ユーザ名'@'localhost' identified by 'ぱすわぁど';
+flush privileges ;
+

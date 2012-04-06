@@ -1,0 +1,9 @@
+# ベース
+index     =  mw_index.inc:mw_index index.tpl
+
+# 新規登録
+register  = : .
+
+# パスワードリマインダっつか再発行
+reminder  = : .
+

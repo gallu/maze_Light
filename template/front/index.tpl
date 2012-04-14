@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<h1></h1>
+<h1>迷宮ライト</h1>
 </body>
 
 </html>
